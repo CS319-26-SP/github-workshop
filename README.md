@@ -10,4 +10,4 @@ This project aims to organize the BILSEN lab review process.
 
 ## Team Members
 
-Tevfik Emre Sungur - 22102377
+Tevfik Emre Sungur - 312
