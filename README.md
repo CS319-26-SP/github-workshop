@@ -6,3 +6,7 @@ This is project X.
 
 * feat 1
 * feat 2
+
+## Team Member Info
+
+Tevfik Emre Sungur - 123456
